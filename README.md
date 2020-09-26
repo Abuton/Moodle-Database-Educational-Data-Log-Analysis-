@@ -7,3 +7,5 @@
 </p>
 
 A repo of sql codes to extract and analysis educational database in particular moodle
+
+<a href=https://public.tableau.com/profile/abubakar.alaro3266#!/vizhome/MoodleDahboard/Dashboard1?publish=yes>link to the dashboard built</a>
